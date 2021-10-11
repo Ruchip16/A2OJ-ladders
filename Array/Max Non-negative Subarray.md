@@ -1,6 +1,7 @@
 https://www.interviewbit.com/problems/max-non-negative-subarray/
 
 **Brute-force Approach : A tweak of maximum  sum subarray (kadane's algo) but not the exact one**
+*not correct approach revise once*
 
 ```cpp
 <!--Brute-Force  -->
