@@ -1,6 +1,8 @@
 https://leetcode.com/problems/majority-element-ii/
 
-**Modified Boyer moore's voting algorithm**
+**Modified Boyer moore's voting algorithm** 
+
+*Google Interview Question*
 
 ```cpp
 class Solution {
