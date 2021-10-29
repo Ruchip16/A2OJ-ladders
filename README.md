@@ -11,4 +11,6 @@ In this repository I will share all the questions that I will solve daily in DSA
 | | [Remove Duplicate numbers](https://binarysearch.com/problems/Remove-Duplicate-Numbers)
 | | [Majority Element 2](https://leetcode.com/problems/majority-element-ii/)
 | Math | [Count Primes]()
+| Linked List | 
+
 
