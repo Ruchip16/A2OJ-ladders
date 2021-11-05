@@ -10,6 +10,7 @@ In this repository I will share all the questions that I will solve daily in DSA
 | | [Max Non-Negative Subarray](https://www.interviewbit.com/problems/max-non-negative-subarray/)
 | | [Remove Duplicate numbers](https://binarysearch.com/problems/Remove-Duplicate-Numbers)
 | | [Majority Element 2](https://leetcode.com/problems/majority-element-ii/)
+| | [Plus One](https://leetcode.com/problems/plus-one/)
 | Math | [Count Primes]()
 | Linked List | 
 
