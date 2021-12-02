@@ -12,7 +12,7 @@ In this repository I will share all the questions that I will solve daily in DSA
 | | [Majority Element 2](https://leetcode.com/problems/majority-element-ii/)
 | | [Plus One](https://leetcode.com/problems/plus-one/)
 | | [Find Element in array](https://pepcoding.com/resources/online-java-foundation/function-and-arrays/find-element-in-array-official/ojquestion)
-| | [Check if Array is sorted and rotated])(https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+| | [Check if Array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 | Math | [Count Primes]()
 | Linked List | 
 
