@@ -16,5 +16,6 @@ bubbleSort(array)
 end bubbleSort
 ```
 
-Time Complexity : O(N)
+Time Complexity : Best case: O(N)
+                  Worst Case: O(N^2)
 Space Complexity: O(1)
