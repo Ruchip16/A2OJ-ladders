@@ -1,6 +1,7 @@
 # [Rotate Array](https://leetcode.com/problems/rotate-array/) 
 
 Approach : Divide the array into two parts p1 & p2 and then reverse p1, reverse p2 and then reverse the entire array
+
  k = k % n ---> for +ve numbers i.e k > 0
  k = k+n -----> for -ve numbers i.e k < 0
 
