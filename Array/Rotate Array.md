@@ -44,9 +44,13 @@ public:
 **Algorithm** : 
 
 k = k%n ----> for k>0 i.e +ve no's
+
 k = k+n -----> for k<0 i.e -ve no's
+
 1. Divide the array into 2 parts, p1 & p2
+
 p1 = 0 to n-k-1
+
 p2 = n-k to n-1
 2. Reverse p1
 3. Reverse p2 
