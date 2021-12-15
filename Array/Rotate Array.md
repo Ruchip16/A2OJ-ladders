@@ -52,8 +52,11 @@ k = k+n -----> for k<0 i.e -ve no's
 p1 = 0 to n-k-1
 
 p2 = n-k to n-1
+
 2. Reverse p1
+
 3. Reverse p2 
+
 4. Reverse entire array after reversing p1 & P2
 
 **Time Complexity** : O(N)
