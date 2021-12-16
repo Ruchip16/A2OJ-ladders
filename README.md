@@ -15,6 +15,6 @@ In this repository I will share all the questions that I will solve daily in DSA
 | | [Check if Array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 | | [Rotate Array](https://leetcode.com/problems/rotate-array/)
 | Math | [Count Primes]()
-| Linked List | 
+
 
 
