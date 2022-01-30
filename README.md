@@ -14,6 +14,9 @@ In this repository I will share all the questions that I will solve daily in DSA
 | | [Find Element in array](https://pepcoding.com/resources/online-java-foundation/function-and-arrays/find-element-in-array-official/ojquestion)
 | | [Check if Array is sorted and rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 | | [Rotate Array](https://leetcode.com/problems/rotate-array/)
+| Strings | [Final Value of Variable performing operations](https://github.com/Ruchip16/Daily_DSA/tree/main/415-add-strings)
+| | [Add Strings](https://github.com/Ruchip16/Daily_DSA/tree/main/415-add-strings)
+| | [Toggle Case](https://leetcode.com/problems/to-lower-case/)|
 | Math | [Count Primes]()
 
 
