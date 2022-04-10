@@ -4,7 +4,7 @@ public:
        
         vector<int> temp;
         int lastEle = 0;
-        int sum=0;
+        // int sum=0;
         for(string x : ops){
             if(isdigit(x[0]) || x[0]=='-'){
                 temp.push_back(std::stoi(x));
@@ -20,10 +20,12 @@ public:
             }
             lastEle = temp.size()-1; // points to the last ele in the temp array
         }
-        for(int i=0; i<temp.size(); i++){
-            sum+=temp[i];
-        }
-        return sum;
+//         for(int i=0; i<temp.size(); i++){
+//             sum+=temp[i];
+//         }
+        
+//         return sum;
+        return accumulate(temp.begin(),temp.end(),0); //stl function to calculate sum
         
     }
 };
