@@ -18,7 +18,7 @@ public:
             else if(x[0]=='C'){
                 temp.pop_back();
             }
-            lastEle = temp.size()-1;
+            lastEle = temp.size()-1; // points to the last ele in the temp array
         }
         for(int i=0; i<temp.size(); i++){
             sum+=temp[i];
