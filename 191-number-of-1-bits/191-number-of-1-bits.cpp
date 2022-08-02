@@ -1,15 +1,12 @@
 class Solution {
 public:
     int hammingWeight(uint32_t n) {
-        // int count = 0;
-        // if(n%10==1){
-        //     count++;
-        // }
-        // return count;
-        return __builtin_popcount(n);
+        uint32_t count=0, k=31;
+        while(n!=0){
+            if((n & 1)==1) count++;
+            n = n >> 1;
+        }
+        return count;
+        
     }
 };
-
-
-// Approach 1 : Iterate through the n and count the no of ones 
-// Approach 2 : Using builtin function
